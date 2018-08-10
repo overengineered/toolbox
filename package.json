@@ -1,0 +1,14 @@
+{
+    "name": "@overengineered/toolbox",
+    "version": "0.0.1",
+    "description": "Functions useful for debugging",
+    "license": "MIT",
+    "repository": "overengineered/toolbox",
+    "main": "index.js",
+    "keywords": [
+        "debugging"
+    ],
+    "dependencies": {
+        "util": "^0.11.0"
+    }
+}
